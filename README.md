@@ -1,2 +1,2 @@
 # dio-desafio-git-github
-Prmeiro desafio de git/github
+Primeiro desafio de git/github
